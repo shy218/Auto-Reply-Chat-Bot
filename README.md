@@ -14,10 +14,11 @@ You need to install gensim, numpy and wxpy to load the model.
 pip install gensim
 ```
 
-
-**wxpy** is the API from Wechat. When you start the load_model.py, it will create a QS code.
-You need to scan it by wechat to log in.
+**wxpy** is the API from Wechat. 
 
 ```
 pip install wxpy
 ```
+
+When you start the load_model.py, it will create a QS code.
+You need to scan it by wechat to log in.
