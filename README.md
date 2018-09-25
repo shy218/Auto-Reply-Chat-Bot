@@ -8,16 +8,16 @@ To use this model, you need to first download the word embedding model from Goog
 
 You need to install gensim, numpy and wxpy to load the model.
 
-gensim is an API to load Word Embedding model.
+**gensim** is an API to load Word Embedding model.
 
-'''
+```
 pip install gensim
-'''
+```
 
 
-wxpy is the API from Wechat. When you start the load_model.py, it will create a QS code.
+**wxpy** is the API from Wechat. When you start the load_model.py, it will create a QS code.
 You need to scan it by wechat to log in.
 
-'''
+```
 pip install wxpy
-'''
+```
