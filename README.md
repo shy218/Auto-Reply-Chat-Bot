@@ -24,3 +24,6 @@ When you start the load_model.py, it will create a QS code.
 You need to scan it by wechat to log in.
 
 Warning: Make sure to close the program after using it. Otherwise, it will auto-reply some tricky messages.
+
+## License
+`Auto-Reply-Chat-Bot` is a public domain work. Feel free to do whatever you want with it.
